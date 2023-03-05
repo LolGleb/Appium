@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ch_03_02_Sessions_After" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-19T11:30:10" hostname="WH0131949" time="49.132">
+  <properties/>
+  <testcase name="test" classname="Ch_03_02_Sessions_After" time="49.132"/>
+  <system-out><![CDATA[Here's our test!
+]]></system-out>
+  <system-err><![CDATA[Feb 19, 2023 6:30:57 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
